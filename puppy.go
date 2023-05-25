@@ -1,6 +1,6 @@
 package puppy
 
-func Brak() string {
+func Bark() string {
 	return "Woof!"
 }
 
