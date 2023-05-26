@@ -29,3 +29,7 @@ func From11() {
 func From12() {
 	fmt.Println("From versions 1.2.0")
 }
+
+func From13() {
+	fmt.Println("From versions 1.3.0")
+}
